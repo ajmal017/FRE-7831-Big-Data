@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0416754C-FF88-41A1-8BEA-28C39447B449</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0416754C-FF88-41A1-8BEA-28C39447B449.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576773731.94392896</real>
+			<key>timeStoppedRecording</key>
+			<real>576773737.66467404</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>0416754C-FF88-41A1-8BEA-28C39447B449</string>
+		</dict>
+		<key>11E8CFBC-F31C-401C-BE47-99DAA524C92A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>11E8CFBC-F31C-401C-BE47-99DAA524C92A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576775958.36038101</real>
+			<key>timeStoppedRecording</key>
+			<real>576775977.68496096</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>11E8CFBC-F31C-401C-BE47-99DAA524C92A</string>
+		</dict>
+		<key>327B7433-F423-4766-BB5C-507FB437FFC6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>327B7433-F423-4766-BB5C-507FB437FFC6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576772631.94498396</real>
+			<key>timeStoppedRecording</key>
+			<real>576772634.80305398</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>327B7433-F423-4766-BB5C-507FB437FFC6</string>
+		</dict>
+		<key>43A22AE5-61A5-4CD1-848C-0DEC1429C606</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>43A22AE5-61A5-4CD1-848C-0DEC1429C606.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576772732.79543495</real>
+			<key>timeStoppedRecording</key>
+			<real>576772826.66516697</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>43A22AE5-61A5-4CD1-848C-0DEC1429C606</string>
+		</dict>
+		<key>5B550E00-4208-477D-B912-C3E6E7B5FD5D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5B550E00-4208-477D-B912-C3E6E7B5FD5D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576773681.67459905</real>
+			<key>timeStoppedRecording</key>
+			<real>576773687.91680002</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>5B550E00-4208-477D-B912-C3E6E7B5FD5D</string>
+		</dict>
+		<key>5FE68957-F0A9-43BA-844F-255BABE731F8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5FE68957-F0A9-43BA-844F-255BABE731F8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576773551.13467705</real>
+			<key>timeStoppedRecording</key>
+			<real>576773562.33258295</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>5FE68957-F0A9-43BA-844F-255BABE731F8</string>
+		</dict>
+		<key>66F6A709-F9DF-4DD6-BC4C-C6A31135E2EE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>66F6A709-F9DF-4DD6-BC4C-C6A31135E2EE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576773657.25568902</real>
+			<key>timeStoppedRecording</key>
+			<real>576773664.42139304</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>66F6A709-F9DF-4DD6-BC4C-C6A31135E2EE</string>
+		</dict>
+		<key>883FB095-F45A-4238-9E2B-D0B522921CAF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>883FB095-F45A-4238-9E2B-D0B522921CAF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576773294.15906894</real>
+			<key>timeStoppedRecording</key>
+			<real>576773370.37501597</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>883FB095-F45A-4238-9E2B-D0B522921CAF</string>
+		</dict>
+		<key>96F5A8DA-4288-4A47-B651-B39707A1D619</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>96F5A8DA-4288-4A47-B651-B39707A1D619.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576781288.39297402</real>
+			<key>timeStoppedRecording</key>
+			<real>576781310.86961997</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>96F5A8DA-4288-4A47-B651-B39707A1D619</string>
+		</dict>
+		<key>98298B2A-DA35-4692-A248-33D1F0BCFD24</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>98298B2A-DA35-4692-A248-33D1F0BCFD24.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576773582.06954503</real>
+			<key>timeStoppedRecording</key>
+			<real>576773589.66686702</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>98298B2A-DA35-4692-A248-33D1F0BCFD24</string>
+		</dict>
+		<key>9DD499DF-17BE-4840-915A-FA47E8549C08</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9DD499DF-17BE-4840-915A-FA47E8549C08.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576772512.26427901</real>
+			<key>timeStoppedRecording</key>
+			<real>576772631.72473896</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>9DD499DF-17BE-4840-915A-FA47E8549C08</string>
+		</dict>
+		<key>A272182F-CB67-41B5-A4F8-94C9E3B66CBE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A272182F-CB67-41B5-A4F8-94C9E3B66CBE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576119967.47462499</real>
+			<key>timeStoppedRecording</key>
+			<real>576119969.93359101</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>A272182F-CB67-41B5-A4F8-94C9E3B66CBE</string>
+		</dict>
+		<key>B2FEB706-FDF0-4297-8B05-8A3DB236799F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B2FEB706-FDF0-4297-8B05-8A3DB236799F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576773713.36390102</real>
+			<key>timeStoppedRecording</key>
+			<real>576773718.96457899</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>B2FEB706-FDF0-4297-8B05-8A3DB236799F</string>
+		</dict>
+		<key>C3413234-D757-43C1-8028-4CA0324BB546</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C3413234-D757-43C1-8028-4CA0324BB546.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576772893.48733306</real>
+			<key>timeStoppedRecording</key>
+			<real>576772901.65407705</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>C3413234-D757-43C1-8028-4CA0324BB546</string>
+		</dict>
+		<key>FBBDEE44-D6C3-4CF2-8990-8003AB89A791</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FBBDEE44-D6C3-4CF2-8990-8003AB89A791.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576772849.95952904</real>
+			<key>timeStoppedRecording</key>
+			<real>576772860.85055006</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>FBBDEE44-D6C3-4CF2-8990-8003AB89A791</string>
+		</dict>
+		<key>FE0C381A-9DB9-4744-B3B3-46E30153D2E1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FE0C381A-9DB9-4744-B3B3-46E30153D2E1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FRE7831_Project_Spring_2019_Mac project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FRE7831_Project_Spring_2019_Mac</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>timeStartedRecording</key>
+			<real>576772638.50836802</real>
+			<key>timeStoppedRecording</key>
+			<real>576772640.93498003</real>
+			<key>title</key>
+			<string>Debug FRE7831_Project_Spring_2019_Mac</string>
+			<key>uniqueIdentifier</key>
+			<string>FE0C381A-9DB9-4744-B3B3-46E30153D2E1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
