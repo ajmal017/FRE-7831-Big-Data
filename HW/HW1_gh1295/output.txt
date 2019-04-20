@@ -1,0 +1,1141 @@
+SessionConnectionUp = {
+    server = "localhost:8194"
+}
+SessionStarted = {
+    initialEndpoints[] = {
+        initialEndpoints = {
+            address = "localhost:8194"
+        }
+    }
+}
+ServiceOpened = {
+    serviceName = "//blp/refdata"
+}
+HistoricalDataResponse = {
+    securityData = {
+        security = "IBM US Equity"
+        eidData[] = {
+        }
+        sequenceNumber = 0
+        fieldExceptions[] = {
+        }
+        fieldData[] = {
+            fieldData = {
+                date = 2019-01-02
+                PX_LAST = 115.210000
+                OPEN = 112.010000
+                PX_HIGH = 115.980000
+                PX_LOW = 111.690000
+                PX_VOLUME = 4239924.000000
+            }
+            fieldData = {
+                date = 2019-01-03
+                PX_LAST = 112.910000
+                OPEN = 114.530000
+                PX_HIGH = 114.880000
+                PX_LOW = 112.690000
+                PX_VOLUME = 4346659.000000
+            }
+            fieldData = {
+                date = 2019-01-04
+                PX_LAST = 117.320000
+                OPEN = 114.910000
+                PX_HIGH = 117.490000
+                PX_LOW = 114.440000
+                PX_VOLUME = 4477755.000000
+            }
+            fieldData = {
+                date = 2019-01-07
+                PX_LAST = 118.150000
+                OPEN = 117.500000
+                PX_HIGH = 118.830000
+                PX_LOW = 116.670000
+                PX_VOLUME = 3751204.000000
+            }
+            fieldData = {
+                date = 2019-01-08
+                PX_LAST = 119.830000
+                OPEN = 119.660000
+                PX_HIGH = 120.570000
+                PX_LOW = 118.980000
+                PX_VOLUME = 4763636.000000
+            }
+            fieldData = {
+                date = 2019-01-09
+                PX_LAST = 120.690000
+                OPEN = 120.910000
+                PX_HIGH = 121.400000
+                PX_LOW = 119.870000
+                PX_VOLUME = 3633663.000000
+            }
+            fieldData = {
+                date = 2019-01-10
+                PX_LAST = 121.790000
+                OPEN = 120.080000
+                PX_HIGH = 121.860000
+                PX_LOW = 119.950000
+                PX_VOLUME = 3909971.000000
+            }
+            fieldData = {
+                date = 2019-01-11
+                PX_LAST = 121.460000
+                OPEN = 121.580000
+                PX_HIGH = 121.615000
+                PX_LOW = 120.200000
+                PX_VOLUME = 3722370.000000
+            }
+            fieldData = {
+                date = 2019-01-14
+                PX_LAST = 120.390000
+                OPEN = 120.510000
+                PX_HIGH = 120.654800
+                PX_LOW = 119.760700
+                PX_VOLUME = 5228909.000000
+            }
+            fieldData = {
+                date = 2019-01-15
+                PX_LAST = 121.730000
+                OPEN = 120.960000
+                PX_HIGH = 121.930000
+                PX_LOW = 120.820000
+                PX_VOLUME = 3507719.000000
+            }
+            fieldData = {
+                date = 2019-01-16
+                PX_LAST = 121.620000
+                OPEN = 121.580000
+                PX_HIGH = 122.000000
+                PX_LOW = 120.830000
+                PX_VOLUME = 3841100.000000
+            }
+            fieldData = {
+                date = 2019-01-17
+                PX_LAST = 122.190000
+                OPEN = 120.560000
+                PX_HIGH = 122.408500
+                PX_LOW = 120.550000
+                PX_VOLUME = 5029871.000000
+            }
+            fieldData = {
+                date = 2019-01-18
+                PX_LAST = 123.820000
+                OPEN = 123.270000
+                PX_HIGH = 124.717500
+                PX_LOW = 122.710000
+                PX_VOLUME = 6008509.000000
+            }
+            fieldData = {
+                date = 2019-01-22
+                PX_LAST = 122.520000
+                OPEN = 123.300000
+                PX_HIGH = 123.800000
+                PX_LOW = 121.540000
+                PX_VOLUME = 10052384.000000
+            }
+            fieldData = {
+                date = 2019-01-23
+                PX_LAST = 132.890000
+                OPEN = 131.370000
+                PX_HIGH = 135.000000
+                PX_LOW = 130.310000
+                PX_VOLUME = 22063666.000000
+            }
+            fieldData = {
+                date = 2019-01-24
+                PX_LAST = 132.530000
+                OPEN = 132.630000
+                PX_HIGH = 133.205400
+                PX_LOW = 131.430000
+                PX_VOLUME = 6322928.000000
+            }
+            fieldData = {
+                date = 2019-01-25
+                PX_LAST = 133.970000
+                OPEN = 132.870000
+                PX_HIGH = 134.440000
+                PX_LOW = 132.430000
+                PX_VOLUME = 5708500.000000
+            }
+            fieldData = {
+                date = 2019-01-28
+                PX_LAST = 134.270000
+                OPEN = 133.100000
+                PX_HIGH = 134.805000
+                PX_LOW = 132.580000
+                PX_VOLUME = 5357736.000000
+            }
+            fieldData = {
+                date = 2019-01-29
+                PX_LAST = 134.330000
+                OPEN = 134.290000
+                PX_HIGH = 135.414900
+                PX_LOW = 133.600000
+                PX_VOLUME = 5037129.000000
+            }
+            fieldData = {
+                date = 2019-01-30
+                PX_LAST = 134.380000
+                OPEN = 134.000000
+                PX_HIGH = 135.030000
+                PX_LOW = 133.250000
+                PX_VOLUME = 4500919.000000
+            }
+            fieldData = {
+                date = 2019-01-31
+                PX_LAST = 134.420000
+                OPEN = 134.450000
+                PX_HIGH = 134.716000
+                PX_LOW = 133.740000
+                PX_VOLUME = 4884031.000000
+            }
+            fieldData = {
+                date = 2019-02-01
+                PX_LAST = 134.100000
+                OPEN = 134.970000
+                PX_HIGH = 135.200000
+                PX_LOW = 133.350000
+                PX_VOLUME = 3806047.000000
+            }
+            fieldData = {
+                date = 2019-02-04
+                PX_LAST = 135.190000
+                OPEN = 134.020000
+                PX_HIGH = 135.200000
+                PX_LOW = 132.990000
+                PX_VOLUME = 3966597.000000
+            }
+            fieldData = {
+                date = 2019-02-05
+                PX_LAST = 135.550000
+                OPEN = 135.280000
+                PX_HIGH = 135.820000
+                PX_LOW = 134.920000
+                PX_VOLUME = 5398907.000000
+            }
+            fieldData = {
+                date = 2019-02-06
+                PX_LAST = 136.320000
+                OPEN = 135.220000
+                PX_HIGH = 136.650000
+                PX_LOW = 135.170000
+                PX_VOLUME = 4879670.000000
+            }
+            fieldData = {
+                date = 2019-02-07
+                PX_LAST = 133.190000
+                OPEN = 133.550000
+                PX_HIGH = 134.470000
+                PX_LOW = 132.120000
+                PX_VOLUME = 4379439.000000
+            }
+            fieldData = {
+                date = 2019-02-08
+                PX_LAST = 133.710000
+                OPEN = 132.340000
+                PX_HIGH = 133.710000
+                PX_LOW = 132.190000
+                PX_VOLUME = 3250074.000000
+            }
+            fieldData = {
+                date = 2019-02-11
+                PX_LAST = 133.990000
+                OPEN = 134.290000
+                PX_HIGH = 135.150000
+                PX_LOW = 133.910000
+                PX_VOLUME = 3095069.000000
+            }
+            fieldData = {
+                date = 2019-02-12
+                PX_LAST = 136.050000
+                OPEN = 135.150000
+                PX_HIGH = 136.200000
+                PX_LOW = 134.860000
+                PX_VOLUME = 3317161.000000
+            }
+            fieldData = {
+                date = 2019-02-13
+                PX_LAST = 137.520000
+                OPEN = 136.920000
+                PX_HIGH = 137.920000
+                PX_LOW = 136.410000
+                PX_VOLUME = 4253042.000000
+            }
+            fieldData = {
+                date = 2019-02-14
+                PX_LAST = 136.480000
+                OPEN = 137.170000
+                PX_HIGH = 137.601900
+                PX_LOW = 136.210000
+                PX_VOLUME = 2789839.000000
+            }
+            fieldData = {
+                date = 2019-02-15
+                PX_LAST = 138.030000
+                OPEN = 137.580000
+                PX_HIGH = 138.185000
+                PX_LOW = 137.385000
+                PX_VOLUME = 3844062.000000
+            }
+            fieldData = {
+                date = 2019-02-19
+                PX_LAST = 138.700000
+                OPEN = 137.810000
+                PX_HIGH = 138.700000
+                PX_LOW = 137.360000
+                PX_VOLUME = 3385675.000000
+            }
+            fieldData = {
+                date = 2019-02-20
+                PX_LAST = 138.000000
+                OPEN = 138.760000
+                PX_HIGH = 139.240000
+                PX_LOW = 137.220300
+                PX_VOLUME = 3801979.000000
+            }
+            fieldData = {
+                date = 2019-02-21
+                PX_LAST = 137.840000
+                OPEN = 137.820000
+                PX_HIGH = 138.350000
+                PX_LOW = 137.350000
+                PX_VOLUME = 2937467.000000
+            }
+            fieldData = {
+                date = 2019-02-22
+                PX_LAST = 139.250000
+                OPEN = 138.730000
+                PX_HIGH = 139.380000
+                PX_LOW = 138.430000
+                PX_VOLUME = 3113698.000000
+            }
+            fieldData = {
+                date = 2019-02-25
+                PX_LAST = 139.460000
+                OPEN = 140.000000
+                PX_HIGH = 140.470000
+                PX_LOW = 139.320000
+                PX_VOLUME = 3194161.000000
+            }
+            fieldData = {
+                date = 2019-02-26
+                PX_LAST = 139.720000
+                OPEN = 139.670000
+                PX_HIGH = 140.490000
+                PX_LOW = 139.470000
+                PX_VOLUME = 3060381.000000
+            }
+            fieldData = {
+                date = 2019-02-27
+                PX_LAST = 139.170000
+                OPEN = 139.250000
+                PX_HIGH = 139.570000
+                PX_LOW = 138.400700
+                PX_VOLUME = 2530968.000000
+            }
+            fieldData = {
+                date = 2019-02-28
+                PX_LAST = 138.130000
+                OPEN = 138.770000
+                PX_HIGH = 139.055000
+                PX_LOW = 137.720000
+                PX_VOLUME = 3457788.000000
+            }
+            fieldData = {
+                date = 2019-03-01
+                PX_LAST = 139.200000
+                OPEN = 139.310000
+                PX_HIGH = 140.040000
+                PX_LOW = 138.640000
+                PX_VOLUME = 3030044.000000
+            }
+            fieldData = {
+                date = 2019-03-04
+                PX_LAST = 138.430000
+                OPEN = 139.990000
+                PX_HIGH = 140.080000
+                PX_LOW = 137.170000
+                PX_VOLUME = 3407217.000000
+            }
+            fieldData = {
+                date = 2019-03-05
+                PX_LAST = 137.880000
+                OPEN = 138.370000
+                PX_HIGH = 138.740000
+                PX_LOW = 137.555000
+                PX_VOLUME = 4250650.000000
+            }
+            fieldData = {
+                date = 2019-03-06
+                PX_LAST = 136.980000
+                OPEN = 138.120000
+                PX_HIGH = 138.389200
+                PX_LOW = 136.720000
+                PX_VOLUME = 2768256.000000
+            }
+            fieldData = {
+                date = 2019-03-07
+                PX_LAST = 135.360000
+                OPEN = 136.610000
+                PX_HIGH = 136.890000
+                PX_LOW = 134.634300
+                PX_VOLUME = 4358802.000000
+            }
+            fieldData = {
+                date = 2019-03-08
+                PX_LAST = 135.090000
+                OPEN = 134.210000
+                PX_HIGH = 135.240000
+                PX_LOW = 133.580000
+                PX_VOLUME = 3773722.000000
+            }
+            fieldData = {
+                date = 2019-03-11
+                PX_LAST = 137.710000
+                OPEN = 136.030000
+                PX_HIGH = 137.730000
+                PX_LOW = 135.840000
+                PX_VOLUME = 3939517.000000
+            }
+            fieldData = {
+                date = 2019-03-12
+                PX_LAST = 138.280000
+                OPEN = 138.520000
+                PX_HIGH = 139.695000
+                PX_LOW = 137.860000
+                PX_VOLUME = 3954653.000000
+            }
+            fieldData = {
+                date = 2019-03-13
+                PX_LAST = 138.560000
+                OPEN = 138.050000
+                PX_HIGH = 139.325000
+                PX_LOW = 137.850000
+                PX_VOLUME = 3173179.000000
+            }
+            fieldData = {
+                date = 2019-03-14
+                PX_LAST = 138.790000
+                OPEN = 138.510000
+                PX_HIGH = 138.940000
+                PX_LOW = 138.060000
+                PX_VOLUME = 2738790.000000
+            }
+            fieldData = {
+                date = 2019-03-15
+                PX_LAST = 139.430000
+                OPEN = 139.370000
+                PX_HIGH = 140.330000
+                PX_LOW = 139.230000
+                PX_VOLUME = 7153687.000000
+            }
+            fieldData = {
+                date = 2019-03-18
+                PX_LAST = 140.210000
+                OPEN = 139.830000
+                PX_HIGH = 140.365000
+                PX_LOW = 138.720000
+                PX_VOLUME = 3268510.000000
+            }
+            fieldData = {
+                date = 2019-03-19
+                PX_LAST = 140.490000
+                OPEN = 140.960000
+                PX_HIGH = 141.702400
+                PX_LOW = 140.002000
+                PX_VOLUME = 3482336.000000
+            }
+            fieldData = {
+                date = 2019-03-20
+                PX_LAST = 139.600000
+                OPEN = 140.530000
+                PX_HIGH = 140.700000
+                PX_LOW = 138.980000
+                PX_VOLUME = 3649455.000000
+            }
+            fieldData = {
+                date = 2019-03-21
+                PX_LAST = 141.440000
+                OPEN = 139.100000
+                PX_HIGH = 142.120000
+                PX_LOW = 138.880000
+                PX_VOLUME = 3605420.000000
+            }
+            fieldData = {
+                date = 2019-03-22
+                PX_LAST = 139.450000
+                OPEN = 140.970000
+                PX_HIGH = 141.440000
+                PX_LOW = 138.900000
+                PX_VOLUME = 3877616.000000
+            }
+            fieldData = {
+                date = 2019-03-25
+                PX_LAST = 139.180000
+                OPEN = 139.060000
+                PX_HIGH = 139.910000
+                PX_LOW = 138.350000
+                PX_VOLUME = 2839766.000000
+            }
+            fieldData = {
+                date = 2019-03-26
+                PX_LAST = 140.220000
+                OPEN = 139.930000
+                PX_HIGH = 141.020000
+                PX_LOW = 139.420000
+                PX_VOLUME = 2553708.000000
+            }
+            fieldData = {
+                date = 2019-03-27
+                PX_LAST = 139.240000
+                OPEN = 140.410000
+                PX_HIGH = 140.490000
+                PX_LOW = 138.400000
+                PX_VOLUME = 3098233.000000
+            }
+            fieldData = {
+                date = 2019-03-28
+                PX_LAST = 139.920000
+                OPEN = 139.910000
+                PX_HIGH = 140.440000
+                PX_LOW = 139.100000
+                PX_VOLUME = 2663884.000000
+            }
+            fieldData = {
+                date = 2019-03-29
+                PX_LAST = 141.100000
+                OPEN = 140.500000
+                PX_HIGH = 141.220000
+                PX_LOW = 140.150000
+                PX_VOLUME = 3101454.000000
+            }
+            fieldData = {
+                date = 2019-04-01
+                PX_LAST = 143.300000
+                OPEN = 141.510000
+                PX_HIGH = 143.410000
+                PX_LOW = 141.510000
+                PX_VOLUME = 3984250.000000
+            }
+            fieldData = {
+                date = 2019-04-02
+                PX_LAST = 143.000000
+                OPEN = 143.350000
+                PX_HIGH = 143.950000
+                PX_LOW = 142.600000
+                PX_VOLUME = 2404920.000000
+            }
+            fieldData = {
+                date = 2019-04-03
+                PX_LAST = 143.630000
+                OPEN = 143.650000
+                PX_HIGH = 144.220000
+                PX_LOW = 143.010000
+                PX_VOLUME = 2681645.000000
+            }
+            fieldData = {
+                date = 2019-04-04
+                PX_LAST = 142.780000
+                OPEN = 143.620000
+                PX_HIGH = 144.140000
+                PX_LOW = 142.540000
+                PX_VOLUME = 2771462.000000
+            }
+            fieldData = {
+                date = 2019-04-05
+                PX_LAST = 143.280000
+                OPEN = 143.290000
+                PX_HIGH = 143.500000
+                PX_LOW = 142.460000
+                PX_VOLUME = 2731985.000000
+            }
+            fieldData = {
+                date = 2019-04-08
+                PX_LAST = 143.390000
+                OPEN = 143.020000
+                PX_HIGH = 143.420000
+                PX_LOW = 142.870000
+                PX_VOLUME = 2118228.000000
+            }
+            fieldData = {
+                date = 2019-04-09
+                PX_LAST = 142.110000
+                OPEN = 142.660000
+                PX_HIGH = 142.950000
+                PX_LOW = 141.840000
+                PX_VOLUME = 3038460.000000
+            }
+            fieldData = {
+                date = 2019-04-10
+                PX_LAST = 142.980000
+                OPEN = 142.200000
+                PX_HIGH = 143.495000
+                PX_LOW = 141.980000
+                PX_VOLUME = 1495484.000000
+            }
+        }
+    }
+}
+HistoricalDataResponse = {
+    securityData = {
+        security = "MSFT US Equity"
+        eidData[] = {
+        }
+        sequenceNumber = 1
+        fieldExceptions[] = {
+        }
+        fieldData[] = {
+            fieldData = {
+                date = 2019-01-02
+                PX_LAST = 101.120000
+                OPEN = 99.550000
+                PX_HIGH = 101.750000
+                PX_LOW = 98.940000
+                PX_VOLUME = 35329345.000000
+            }
+            fieldData = {
+                date = 2019-01-03
+                PX_LAST = 97.400000
+                OPEN = 100.100000
+                PX_HIGH = 100.185000
+                PX_LOW = 97.200000
+                PX_VOLUME = 42578410.000000
+            }
+            fieldData = {
+                date = 2019-01-04
+                PX_LAST = 101.930000
+                OPEN = 99.720000
+                PX_HIGH = 102.510000
+                PX_LOW = 98.930000
+                PX_VOLUME = 44060620.000000
+            }
+            fieldData = {
+                date = 2019-01-07
+                PX_LAST = 102.060000
+                OPEN = 101.640000
+                PX_HIGH = 103.268100
+                PX_LOW = 100.980000
+                PX_VOLUME = 35656136.000000
+            }
+            fieldData = {
+                date = 2019-01-08
+                PX_LAST = 102.800000
+                OPEN = 103.040000
+                PX_HIGH = 103.970000
+                PX_LOW = 101.713400
+                PX_VOLUME = 31514415.000000
+            }
+            fieldData = {
+                date = 2019-01-09
+                PX_LAST = 104.270000
+                OPEN = 103.860000
+                PX_HIGH = 104.880000
+                PX_LOW = 103.244500
+                PX_VOLUME = 32280840.000000
+            }
+            fieldData = {
+                date = 2019-01-10
+                PX_LAST = 103.600000
+                OPEN = 103.220000
+                PX_HIGH = 103.750000
+                PX_LOW = 102.380000
+                PX_VOLUME = 30067556.000000
+            }
+            fieldData = {
+                date = 2019-01-11
+                PX_LAST = 102.800000
+                OPEN = 103.190000
+                PX_HIGH = 103.440000
+                PX_LOW = 101.640000
+                PX_VOLUME = 28314202.000000
+            }
+            fieldData = {
+                date = 2019-01-14
+                PX_LAST = 102.050000
+                OPEN = 101.900000
+                PX_HIGH = 102.871600
+                PX_LOW = 101.260000
+                PX_VOLUME = 28437079.000000
+            }
+            fieldData = {
+                date = 2019-01-15
+                PX_LAST = 105.010000
+                OPEN = 102.510000
+                PX_HIGH = 105.050000
+                PX_LOW = 101.880000
+                PX_VOLUME = 31587616.000000
+            }
+            fieldData = {
+                date = 2019-01-16
+                PX_LAST = 105.380000
+                OPEN = 105.260000
+                PX_HIGH = 106.255000
+                PX_LOW = 104.960000
+                PX_VOLUME = 29853865.000000
+            }
+            fieldData = {
+                date = 2019-01-17
+                PX_LAST = 106.120000
+                OPEN = 105.000000
+                PX_HIGH = 106.625000
+                PX_LOW = 104.760000
+                PX_VOLUME = 28393015.000000
+            }
+            fieldData = {
+                date = 2019-01-18
+                PX_LAST = 107.710000
+                OPEN = 107.460000
+                PX_HIGH = 107.900000
+                PX_LOW = 105.910000
+                PX_VOLUME = 37427587.000000
+            }
+            fieldData = {
+                date = 2019-01-22
+                PX_LAST = 105.680000
+                OPEN = 106.750000
+                PX_HIGH = 107.100000
+                PX_LOW = 104.860000
+                PX_VOLUME = 32371253.000000
+            }
+            fieldData = {
+                date = 2019-01-23
+                PX_LAST = 106.710000
+                OPEN = 106.120000
+                PX_HIGH = 107.040000
+                PX_LOW = 105.340000
+                PX_VOLUME = 25874294.000000
+            }
+            fieldData = {
+                date = 2019-01-24
+                PX_LAST = 106.200000
+                OPEN = 106.860000
+                PX_HIGH = 107.000000
+                PX_LOW = 105.340000
+                PX_VOLUME = 23164838.000000
+            }
+            fieldData = {
+                date = 2019-01-25
+                PX_LAST = 107.170000
+                OPEN = 107.240000
+                PX_HIGH = 107.880000
+                PX_LOW = 106.590000
+                PX_VOLUME = 31218193.000000
+            }
+            fieldData = {
+                date = 2019-01-28
+                PX_LAST = 105.080000
+                OPEN = 106.260000
+                PX_HIGH = 106.480000
+                PX_LOW = 104.660000
+                PX_VOLUME = 29476719.000000
+            }
+            fieldData = {
+                date = 2019-01-29
+                PX_LAST = 102.940000
+                OPEN = 104.880000
+                PX_HIGH = 104.970000
+                PX_LOW = 102.170000
+                PX_VOLUME = 31490547.000000
+            }
+            fieldData = {
+                date = 2019-01-30
+                PX_LAST = 106.380000
+                OPEN = 104.620000
+                PX_HIGH = 106.380000
+                PX_LOW = 104.330000
+                PX_VOLUME = 49471866.000000
+            }
+            fieldData = {
+                date = 2019-01-31
+                PX_LAST = 104.430000
+                OPEN = 103.800000
+                PX_HIGH = 105.220000
+                PX_LOW = 103.180000
+                PX_VOLUME = 55636391.000000
+            }
+            fieldData = {
+                date = 2019-02-01
+                PX_LAST = 102.780000
+                OPEN = 103.775000
+                PX_HIGH = 104.099900
+                PX_LOW = 102.350000
+                PX_VOLUME = 35535690.000000
+            }
+            fieldData = {
+                date = 2019-02-04
+                PX_LAST = 105.740000
+                OPEN = 102.870000
+                PX_HIGH = 105.800000
+                PX_LOW = 102.770000
+                PX_VOLUME = 31315282.000000
+            }
+            fieldData = {
+                date = 2019-02-05
+                PX_LAST = 107.220000
+                OPEN = 106.060000
+                PX_HIGH = 107.270000
+                PX_LOW = 105.960000
+                PX_VOLUME = 27325365.000000
+            }
+            fieldData = {
+                date = 2019-02-06
+                PX_LAST = 106.030000
+                OPEN = 107.000000
+                PX_HIGH = 107.000000
+                PX_LOW = 105.530000
+                PX_VOLUME = 20609759.000000
+            }
+            fieldData = {
+                date = 2019-02-07
+                PX_LAST = 105.270000
+                OPEN = 105.185000
+                PX_HIGH = 105.590000
+                PX_LOW = 104.290000
+                PX_VOLUME = 29760697.000000
+            }
+            fieldData = {
+                date = 2019-02-08
+                PX_LAST = 105.670000
+                OPEN = 104.390000
+                PX_HIGH = 105.780000
+                PX_LOW = 104.260300
+                PX_VOLUME = 21461093.000000
+            }
+            fieldData = {
+                date = 2019-02-11
+                PX_LAST = 105.250000
+                OPEN = 106.200000
+                PX_HIGH = 106.580000
+                PX_LOW = 104.965000
+                PX_VOLUME = 18914123.000000
+            }
+            fieldData = {
+                date = 2019-02-12
+                PX_LAST = 106.890000
+                OPEN = 106.140000
+                PX_HIGH = 107.140000
+                PX_LOW = 105.480000
+                PX_VOLUME = 25056595.000000
+            }
+            fieldData = {
+                date = 2019-02-13
+                PX_LAST = 106.810000
+                OPEN = 107.500000
+                PX_HIGH = 107.780000
+                PX_LOW = 106.710000
+                PX_VOLUME = 18394869.000000
+            }
+            fieldData = {
+                date = 2019-02-14
+                PX_LAST = 106.900000
+                OPEN = 106.310000
+                PX_HIGH = 107.290000
+                PX_LOW = 105.660000
+                PX_VOLUME = 21784703.000000
+            }
+            fieldData = {
+                date = 2019-02-15
+                PX_LAST = 108.220000
+                OPEN = 107.910000
+                PX_HIGH = 108.300000
+                PX_LOW = 107.362400
+                PX_VOLUME = 26606886.000000
+            }
+            fieldData = {
+                date = 2019-02-19
+                PX_LAST = 108.170000
+                OPEN = 107.790000
+                PX_HIGH = 108.660000
+                PX_LOW = 107.780000
+                PX_VOLUME = 18038460.000000
+            }
+            fieldData = {
+                date = 2019-02-20
+                PX_LAST = 107.150000
+                OPEN = 107.860000
+                PX_HIGH = 107.940000
+                PX_LOW = 106.290000
+                PX_VOLUME = 21607671.000000
+            }
+            fieldData = {
+                date = 2019-02-21
+                PX_LAST = 109.410000
+                OPEN = 106.900000
+                PX_HIGH = 109.480000
+                PX_LOW = 106.870000
+                PX_VOLUME = 29063231.000000
+            }
+            fieldData = {
+                date = 2019-02-22
+                PX_LAST = 110.970000
+                OPEN = 110.050000
+                PX_HIGH = 111.200000
+                PX_LOW = 109.820000
+                PX_VOLUME = 27763218.000000
+            }
+            fieldData = {
+                date = 2019-02-25
+                PX_LAST = 111.590000
+                OPEN = 111.760000
+                PX_HIGH = 112.180000
+                PX_LOW = 111.260000
+                PX_VOLUME = 23750599.000000
+            }
+            fieldData = {
+                date = 2019-02-26
+                PX_LAST = 112.360000
+                OPEN = 111.260000
+                PX_HIGH = 113.240000
+                PX_LOW = 111.170000
+                PX_VOLUME = 21536733.000000
+            }
+            fieldData = {
+                date = 2019-02-27
+                PX_LAST = 112.170000
+                OPEN = 111.690000
+                PX_HIGH = 112.360000
+                PX_LOW = 110.880000
+                PX_VOLUME = 21487062.000000
+            }
+            fieldData = {
+                date = 2019-02-28
+                PX_LAST = 112.030000
+                OPEN = 112.040000
+                PX_HIGH = 112.880000
+                PX_LOW = 111.730000
+                PX_VOLUME = 29083934.000000
+            }
+            fieldData = {
+                date = 2019-03-01
+                PX_LAST = 112.530000
+                OPEN = 112.890000
+                PX_HIGH = 113.020000
+                PX_LOW = 111.665000
+                PX_VOLUME = 23501169.000000
+            }
+            fieldData = {
+                date = 2019-03-04
+                PX_LAST = 112.260000
+                OPEN = 113.020000
+                PX_HIGH = 113.250000
+                PX_LOW = 110.800000
+                PX_VOLUME = 26608014.000000
+            }
+            fieldData = {
+                date = 2019-03-05
+                PX_LAST = 111.700000
+                OPEN = 112.250000
+                PX_HIGH = 112.390000
+                PX_LOW = 111.230000
+                PX_VOLUME = 19538318.000000
+            }
+            fieldData = {
+                date = 2019-03-06
+                PX_LAST = 111.750000
+                OPEN = 111.870000
+                PX_HIGH = 112.660000
+                PX_LOW = 111.430000
+                PX_VOLUME = 17686996.000000
+            }
+            fieldData = {
+                date = 2019-03-07
+                PX_LAST = 110.390000
+                OPEN = 111.400000
+                PX_HIGH = 111.550000
+                PX_LOW = 109.865000
+                PX_VOLUME = 25338954.000000
+            }
+            fieldData = {
+                date = 2019-03-08
+                PX_LAST = 110.510000
+                OPEN = 109.160000
+                PX_HIGH = 110.710000
+                PX_LOW = 108.800000
+                PX_VOLUME = 22818430.000000
+            }
+            fieldData = {
+                date = 2019-03-11
+                PX_LAST = 112.830000
+                OPEN = 110.990000
+                PX_HIGH = 112.950000
+                PX_LOW = 110.980000
+                PX_VOLUME = 26491618.000000
+            }
+            fieldData = {
+                date = 2019-03-12
+                PX_LAST = 113.620000
+                OPEN = 112.820000
+                PX_HIGH = 113.990000
+                PX_LOW = 112.649900
+                PX_VOLUME = 26132717.000000
+            }
+            fieldData = {
+                date = 2019-03-13
+                PX_LAST = 114.500000
+                OPEN = 114.130000
+                PX_HIGH = 115.000000
+                PX_LOW = 113.780000
+                PX_VOLUME = 35513771.000000
+            }
+            fieldData = {
+                date = 2019-03-14
+                PX_LAST = 114.590000
+                OPEN = 114.540000
+                PX_HIGH = 115.200000
+                PX_LOW = 114.330000
+                PX_VOLUME = 30763367.000000
+            }
+            fieldData = {
+                date = 2019-03-15
+                PX_LAST = 115.910000
+                OPEN = 115.340000
+                PX_HIGH = 117.250000
+                PX_LOW = 114.590000
+                PX_VOLUME = 54630661.000000
+            }
+            fieldData = {
+                date = 2019-03-18
+                PX_LAST = 117.570000
+                OPEN = 116.170000
+                PX_HIGH = 117.610000
+                PX_LOW = 116.050000
+                PX_VOLUME = 31207596.000000
+            }
+            fieldData = {
+                date = 2019-03-19
+                PX_LAST = 117.650000
+                OPEN = 118.090000
+                PX_HIGH = 118.440000
+                PX_LOW = 116.990000
+                PX_VOLUME = 37588697.000000
+            }
+            fieldData = {
+                date = 2019-03-20
+                PX_LAST = 117.520000
+                OPEN = 117.390000
+                PX_HIGH = 118.750000
+                PX_LOW = 116.710000
+                PX_VOLUME = 28113343.000000
+            }
+            fieldData = {
+                date = 2019-03-21
+                PX_LAST = 120.220000
+                OPEN = 117.135000
+                PX_HIGH = 120.820000
+                PX_LOW = 117.090000
+                PX_VOLUME = 29854446.000000
+            }
+            fieldData = {
+                date = 2019-03-22
+                PX_LAST = 117.050000
+                OPEN = 119.500000
+                PX_HIGH = 119.590000
+                PX_LOW = 117.040000
+                PX_VOLUME = 33624528.000000
+            }
+            fieldData = {
+                date = 2019-03-25
+                PX_LAST = 117.660000
+                OPEN = 116.560000
+                PX_HIGH = 118.010000
+                PX_LOW = 116.322400
+                PX_VOLUME = 27067117.000000
+            }
+            fieldData = {
+                date = 2019-03-26
+                PX_LAST = 117.910000
+                OPEN = 118.620000
+                PX_HIGH = 118.705000
+                PX_LOW = 116.850000
+                PX_VOLUME = 26097665.000000
+            }
+            fieldData = {
+                date = 2019-03-27
+                PX_LAST = 116.770000
+                OPEN = 117.875000
+                PX_HIGH = 118.210000
+                PX_LOW = 115.521500
+                PX_VOLUME = 22733427.000000
+            }
+            fieldData = {
+                date = 2019-03-28
+                PX_LAST = 116.930000
+                OPEN = 117.440000
+                PX_HIGH = 117.580000
+                PX_LOW = 116.130000
+                PX_VOLUME = 18334755.000000
+            }
+            fieldData = {
+                date = 2019-03-29
+                PX_LAST = 117.940000
+                OPEN = 118.070000
+                PX_HIGH = 118.320000
+                PX_LOW = 116.960000
+                PX_VOLUME = 25399752.000000
+            }
+            fieldData = {
+                date = 2019-04-01
+                PX_LAST = 119.020000
+                OPEN = 118.950000
+                PX_HIGH = 119.108500
+                PX_LOW = 118.100000
+                PX_VOLUME = 22789103.000000
+            }
+            fieldData = {
+                date = 2019-04-02
+                PX_LAST = 119.190000
+                OPEN = 119.060000
+                PX_HIGH = 119.480000
+                PX_LOW = 118.520000
+                PX_VOLUME = 18142297.000000
+            }
+            fieldData = {
+                date = 2019-04-03
+                PX_LAST = 119.970000
+                OPEN = 119.860000
+                PX_HIGH = 120.430000
+                PX_LOW = 119.150000
+                PX_VOLUME = 22860744.000000
+            }
+            fieldData = {
+                date = 2019-04-04
+                PX_LAST = 119.360000
+                OPEN = 120.100000
+                PX_HIGH = 120.230000
+                PX_LOW = 118.380000
+                PX_VOLUME = 20112848.000000
+            }
+            fieldData = {
+                date = 2019-04-05
+                PX_LAST = 119.890000
+                OPEN = 119.390000
+                PX_HIGH = 120.230000
+                PX_LOW = 119.370000
+                PX_VOLUME = 15826245.000000
+            }
+            fieldData = {
+                date = 2019-04-08
+                PX_LAST = 119.930000
+                OPEN = 119.810000
+                PX_HIGH = 120.020000
+                PX_LOW = 118.640000
+                PX_VOLUME = 15116186.000000
+            }
+            fieldData = {
+                date = 2019-04-09
+                PX_LAST = 119.280000
+                OPEN = 118.630000
+                PX_HIGH = 119.540000
+                PX_LOW = 118.580000
+                PX_VOLUME = 17611981.000000
+            }
+            fieldData = {
+                date = 2019-04-10
+                PX_LAST = 120.080000
+                OPEN = 119.760000
+                PX_HIGH = 120.350000
+                PX_LOW = 119.540000
+                PX_VOLUME = 10203228.000000
+            }
+        }
+    }
+}

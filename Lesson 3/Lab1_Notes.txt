@@ -1,0 +1,31 @@
+FRE7831 Lab 1
+
+Need to create Console Application Instead of Empty Project
+
+Your main function should have the following:
+
+#include "stdafx.h"
+
+#include <blpapi_session.h>
+#include <blpapi_eventdispatcher.h>
+
+#include <blpapi_event.h>
+#include <blpapi_message.h>
+#include <blpapi_element.h>
+#include <blpapi_name.h>
+#include <blpapi_request.h>
+#include <blpapi_subscriptionlist.h>
+#include <blpapi_defs.h>
+#include <blpapi_exception.h>
+
+#include <iostream>
+#include <vector>
+#include <string>
+#include <stdlib.h>
+#include <string.h>
+#include <fstream>
+#include <utility>
+#include <tchar.h>
+
+using namespace std;
+
