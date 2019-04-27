@@ -17,7 +17,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    string file_path = "/Users/victor/Desktop/FRE-7831-Big-Data/Lesson 2/Assignment_03/Assignment_03/SPY_May_2012.csv";
+    string file_path = "/Users/victor/Desktop/FRE-7831-Big-Data/Part 2/Assignment_03/Assignment_03/SPY_May_2012.csv";
     
     fstream file(file_path);
     string line;

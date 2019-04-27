@@ -68,7 +68,7 @@ int main ()
     
     
     FILE* myfile;
-    myfile = fopen ("/Users/victor/Desktop/FRE-7831-Big-Data/Lesson 2/Assignment_03/Assignment_03/SPY_May_2012.csv","r");
+    myfile = fopen ("/Users/victor/Desktop/FRE-7831-Big-Data/Part 2/Assignment_03/Assignment_03/SPY_May_2012.csv","r");
 
     while (!feof(myfile))
     {

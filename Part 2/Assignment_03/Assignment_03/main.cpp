@@ -15,14 +15,12 @@
 
 // #RIC,Date[G],Time[G],GMT Offset,Type,Price,Volume,Market VWAP,Bid Price,Bid Size,Ask Price,Ask Size,Qualifiers
 
-
-
 using namespace std;
 
 int main()
 {
     
-    string file_path = "/Users/victor/Desktop/FRE-7831-Big-Data/Lesson 2/Assignment_03/Assignment_03/SPY_May_2012.csv";
+    string file_path = "/Users/victor/Desktop/FRE-7831-Big-Data/Part 2/Assignment_03/Assignment_03/SPY_May_2012.csv";
     
     fstream file(file_path);
     string line;
@@ -105,7 +103,7 @@ int main()
     for (int j=0; j<26; j++)
     {
         cout << timeinterval[j] << " ";
-        cout << vol_data[j]/16 << " ";
+        cout << vol_data[j]/14 << " ";
         cout << price_data[j] << endl;
     }
 
