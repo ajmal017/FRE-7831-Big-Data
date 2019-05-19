@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>C15DFBA2-C56C-426A-9935-82D8D0E2B0AC</key>
+		<key>2E07599C-61DF-4FAC-8B0A-BB0A896F188D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,22 +15,22 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>C15DFBA2-C56C-426A-9935-82D8D0E2B0AC.xcactivitylog</string>
+			<string>2E07599C-61DF-4FAC-8B0A-BB0A896F188D.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
 			<string>FRE7831_Project_Spring_2019_Mac-ecumlsqpoyqlphgivwzpumvdvuys</string>
 			<key>timeStartedRecording</key>
-			<real>576781284.04411995</real>
+			<real>577842329.65062201</real>
 			<key>timeStoppedRecording</key>
-			<real>576781288.33591902</real>
+			<real>577842331.99598205</real>
 			<key>title</key>
 			<string>Build target FRE7831_Project_Spring_2019_Mac</string>
 			<key>uniqueIdentifier</key>
-			<string>C15DFBA2-C56C-426A-9935-82D8D0E2B0AC</string>
+			<string>2E07599C-61DF-4FAC-8B0A-BB0A896F188D</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
